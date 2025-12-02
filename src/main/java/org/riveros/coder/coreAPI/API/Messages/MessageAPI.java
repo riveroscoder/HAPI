@@ -39,6 +39,12 @@ public interface MessageAPI {
 
     void sendWarning(CommandSender sender, String message);
 
+    void sendParty(CommandSender sender, String message);
+
+    void sendFriends(CommandSender sender, String message);
+
+    void sendGuild(CommandSender sender, String message);
+
     void sendInfo(CommandSender sender, String message);
 
     void sendSeparator(CommandSender sender);
