@@ -6,7 +6,7 @@
 
     <groupId>com.github.riveroscoder</groupId>
     <artifactId>HAPI</artifactId>
-    <version>v1.0.1</version>
+    <version>-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>HAPI</name>
