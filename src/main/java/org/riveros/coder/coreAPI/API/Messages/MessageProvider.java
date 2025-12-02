@@ -17,7 +17,7 @@ public class MessageProvider {
     public static MessageAPI getAPI() {
         if (instance == null) {
             throw new IllegalStateException(
-                    "HAPI is not available.\n" +
+                    "HAPI - is not available.\n" +
                             "Is the ‘HAPI’ plugin installed on the server?"
             );
         }

@@ -9,7 +9,7 @@ public interface MessageAPI {
 
     void sendMessage(CommandSender sender, String message);
 
-    void sendMessages(CommandSender sender, String... messages);
+    void sendMessages(CommandSender sender, String... amessages);
 
     void sendConsoleMessage(String message);
 
